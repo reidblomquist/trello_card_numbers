@@ -1,0 +1,10 @@
+.card-short-id {
+    display: inline-block !important;
+    height: 100%;
+    margin: 0 5px 0 0;
+    padding: 4px;
+    background: #eee;
+    color: #333;
+    border-radius: 5px;
+}
+
